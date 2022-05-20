@@ -1,5 +1,5 @@
 ### EX NO : 06
-### DATE  :
+### DATE  : 29.04.2022
 # <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
 ## Aim:
    To implement multi layer artificial neural network using back propagation algorithm.
@@ -98,4 +98,4 @@ print("Predicted Output: \n",output)
 ![Screenshot (194)](https://user-images.githubusercontent.com/75234807/168775979-ea095808-447b-4d1d-941b-7ceb270655dd.png)
 
 ## Result:
-Thus the python program successully implemented multi layer artificial neural network using back propagation algorithm.
+Thus the python program successfully implemented multi layer artificial neural network using back propagation algorithm.
